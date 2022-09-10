@@ -9,7 +9,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frdyjun%2Fhit-counter&count_bg=%234F4F4F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 <br>
   
-# 🔥 Tech Stack 🔥
+# 🔥 What I Learn 🔥
 ### Main Learning<br>
 <img src="https://img.shields.io/badge/JAVA-3A75B0?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
