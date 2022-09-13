@@ -1,14 +1,11 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hello%20World&fontSize=90&animation=scaleIn&fontAlignY=36&desc=readyJun&descAlignY=51&descAlign=68)
-# 🌿 At 🌿
-###
-<a href="https://github.com/rdyjun"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/rdyjun00-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frdyjun%2Fhit-counter&count_bg=%234F4F4F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/rdyjun00-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <br>
-  
+<hr>
 # 🔥 What I Learn 🔥
 ### Main Learning<br>
 <img src="https://img.shields.io/badge/JAVA-3A75B0?style=flat-square&logo=JAVA&logoColor=white"/></a>
