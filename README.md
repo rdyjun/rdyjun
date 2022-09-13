@@ -1,8 +1,8 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hello%20World&fontSize=90&animation=scaleIn&fontAlignY=36&desc=readyJun&descAlignY=51&descAlign=68)
+## 👋 Hello World
 <br>
-<img src="https://img.shields.io/badge/rdyjun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
-<img src="https://img.shields.io/badge/rdyjun00-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="24px"/>
+<a><img src="https://img.shields.io/badge/rdyjun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
+<a><img src="https://img.shields.io/badge/rdyjun00-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="24px"/></a>
+
 <!-- 깃헙 방문자 노출
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frdyjun%2Fhit-counter&count_bg=%234F4F4F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 -->
