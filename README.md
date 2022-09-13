@@ -1,14 +1,15 @@
-## 👋 Hello World
-<br>
+# 👋 Hello World
+-<br>
+## 🌿 Contact
 <a><img src="https://img.shields.io/badge/rdyjun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 <a><img src="https://img.shields.io/badge/rdyjun00-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="24px"/></a>
 
 <!-- 깃헙 방문자 노출
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frdyjun%2Fhit-counter&count_bg=%234F4F4F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 -->
-<hr>
-  
-### 🔥 Compile With : 
+<br>
+
+## 🔥 Compile With
   
 #### 📌 Main<br>
 <img src="https://img.shields.io/badge/JAVA-3A75B0?style=flat-square&logo=JAVA&logoColor=white" height="28px"/></a>
