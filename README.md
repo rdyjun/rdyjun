@@ -1,6 +1,6 @@
 # 👋 Hello World
 -<br>
-## 🌿 Contact
+## Contact 🌿
 <a><img src="https://img.shields.io/badge/rdyjun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 <a><img src="https://img.shields.io/badge/rdyjun00-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="24px"/></a>
 
@@ -9,15 +9,15 @@
 -->
 <br>
 
-## 🔥 Compile With
+## Compile With 💻
   
-#### 📌 Main<br>
+#### Main <br>
 <img src="https://img.shields.io/badge/JAVA-3A75B0?style=flat-square&logo=JAVA&logoColor=white" height="28px"/></a>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white" height="28px"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="28px"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" height="28px"/></a>
 <br>
-#### 📘 Sub<br>
+#### Sub <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="28px"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" height="28px"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" height="28px"/></a>
