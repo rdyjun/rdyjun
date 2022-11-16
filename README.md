@@ -1,6 +1,6 @@
 # 👋 Hello World
 -<br>
-## Contact 🌿
+## 🌿 Contact 
 <a><img src="https://img.shields.io/badge/rdyjun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 <a><img src="https://img.shields.io/badge/rdyjun00-EA4335?style=flat-square&logo=Gmail&logoColor=white" height="24px"/></a>
 
@@ -9,7 +9,7 @@
 -->
 <br>
 
-## Compile With 💻
+## 💻 Compile With 
   
 #### Main <br>
 <img src="https://img.shields.io/badge/JAVA-3A75B0?style=flat-square&logo=JAVA&logoColor=white" height="28px"/></a>
