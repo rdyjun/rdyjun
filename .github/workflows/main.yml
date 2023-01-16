@@ -52,3 +52,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+!(snake_gif](https://github.com/narayanbavisetti/narayanbavisetts/blob/output/github-contribution-grid-snake.gif)
