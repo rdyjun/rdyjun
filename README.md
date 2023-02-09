@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="28px"/></a>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyjun&layout=compact&exclude_repo=attendance_check&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyjun&langs_count=8)](https://github.com/rdyjun/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdyjun&show_icons=true&include_all_commits=true&theme=black&hide_border=true"/>
 
@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyjun&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geenee10)](https://solved.ac/geenee10)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geenee10)](https://solved.ac/geenee10) -->
 
 </div>
 
