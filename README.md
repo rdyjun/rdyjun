@@ -28,14 +28,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyjun&langs_count=8&exclude_repo=attendance_check)](https://github.com/rdyjun/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdyjun&show_icons=true&include_all_commits=true&theme=black&hide_border=true"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdyjun&show_icons=true&include_all_commits=true&theme=black&hide_border=true"/> -->
 
 
 <!-- 많이 사용한 언어 순위
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyjun&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<br><br>
+<br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rdyjun)](https://solved.ac/rdyjun)
 
