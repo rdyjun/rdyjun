@@ -9,7 +9,7 @@
 -->
 <br>
 
-### :fire: Compile With :fire:
+### :fire: Run With :fire:
   
 #### - Main - <br>
 <img src="https://img.shields.io/badge/JAVA-3A75B0?style=for-the-badge&logo=JAVA&logoColor=white" height="28px"/></a>
