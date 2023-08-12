@@ -25,17 +25,4 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white" height="28px"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="28px"/></a>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyjun&langs_count=8&exclude_repo=attendance_check)](https://github.com/rdyjun/github-readme-stats)
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdyjun&show_icons=true&include_all_commits=true&theme=black&hide_border=true"/> -->
-
-<!-- 많이 사용한 언어 순위
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyjun&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rdyjun)](https://solved.ac/rdyjun)
-
 </div>
