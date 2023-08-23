@@ -16,5 +16,5 @@
 <br>
 
 ### 🌿 Contact 🌿
-<a><img src="https://img.shields.io/badge/rdyjun-181717?style=for-the-badge&logo=GitHub&logoColor=white" height="28px"/></a>
-<a><img src="https://img.shields.io/badge/rdyjun00-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="28px"/></a>
+<a href="https://github.com/rdyjun"><img src="https://img.shields.io/badge/rdyjun-181717?style=for-the-badge&logo=GitHub&logoColor=white" height="28px"/></a>
+<a href="mailto:rdyjun00@gmail.com"><img src="https://img.shields.io/badge/rdyjun00-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="28px"/></a>
