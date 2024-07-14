@@ -10,4 +10,7 @@
 ### 🌿 Contact 🌿
 📧 rdyjun00@gmail.com
 
+### ✏️ Blog ✏️
+👻 [rdyjun.github.io](http://rdyjun.github.io)
+
 </div>
