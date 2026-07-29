@@ -23,4 +23,4 @@
 
 ### Open Source Contribution
 
-- **cloudflare-tunnel-ingress-controller** | Introduce Viper to centralize configuration management and improve environment variable handling. | [PR Link](https://github.com/STRRL/cloudflare-tunnel-ingress-controller/pull/292)
+- cloudflare-tunnel-ingress-controller [#292](https://github.com/STRRL/cloudflare-tunnel-ingress-controller/pull/292) | Introduced Viper for environment variable configuration management.
