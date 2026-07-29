@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" height="24px"/></a>
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" height="24px"/></a>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white" height="24px"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="24px"/></a>
 
 </div>
 
@@ -19,3 +20,7 @@
 - inear - 실시간 신규 앨범 스트리밍 웹 서비스 | 백엔드 | 2024.10 ~ 2024.12
 - danum - 동네기반 지식 공유 플랫폼 | 백엔드 | 2024.03 ~ 2024.06
 - talkfilm - 영화 리뷰 서비스 | 풀스택 / 1인 | 2023.11 ~ 2023.12
+
+### Open Source Contribution
+
+- **cloudflare-tunnel-ingress-controller** | Introduce Viper to centralize configuration management and improve environment variable handling. | [PR Link](https://github.com/STRRL/cloudflare-tunnel-ingress-controller/pull/292)
